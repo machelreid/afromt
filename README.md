@@ -1,6 +1,6 @@
 # AfroMT
 
-Code for the EMNLP 2021 Paper [AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages](https://arxiv.org/abs/2109.04715). Code/data/pre-trained models to be released soon!
+Code for the EMNLP 2021 Paper [AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages](https://arxiv.org/abs/2109.04715). 
 
 ```bibtex
 @inproceedings{reid21afromt,
