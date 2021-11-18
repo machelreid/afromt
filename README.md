@@ -48,6 +48,7 @@ tar -xf afrobart.tar.xz # and you will get afrobart.pt which is the model file
 ```
 
 ### Preprocessing
+First be sure to install [sentencepiece](https://github.com/google/sentencepiece) 
 ```bash
 TGT_LANG=#whatever target language you choose
 cd afromt # the data folder
@@ -78,4 +79,4 @@ bash eval_bleu_chrf.sh generation.log
 
 
 ## Other tidbits
-- The bilingual dictionaries we extracted are in the `dictionaries/` folder
+- The bilingual dictionaries we extracted are in the `dictionaries/` folder (note that these are automatically extracted with a word aligned so they are not gold standard)
