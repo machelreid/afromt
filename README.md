@@ -56,7 +56,7 @@ cd en-$TGT_LANG
 bash ../../preprocess.sh $TGT_LANG ../../
 cd ../../
 ```
-to preprocess \$TGT_LANG (e.g. `zu` for Zulu, or `xh` for Xhosa). This command with produce a `data-bin-afromt` folder in the folder for the en-\$TGT_LANG language pair.
+to preprocess \$TGT_LANG (e.g. `zu` for Zulu, or `xh` for Xhosa). This command will produce a `data-bin-afromt` folder in the folder for the en-\$TGT_LANG language pair.
 
 ### Training
 More details within the script itself if you want to tweak training arguments!
