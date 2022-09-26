@@ -23,7 +23,7 @@ git clone git@github.com:machelreid/afromt
 Please use `gdown` to download the data
 ```bash
 cd afromt
-gdown --id 1hEVw9zNELdfImEDEIKW2pXEEUHimwRXZ
+gdown --id 1Qj3IXQ9kusaeHtGYRVPzMnGm_dQvvfJP
 tar -xf afromt.tar.xz
 ```
 ## Installation
